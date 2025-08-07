@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science and Cloud computing
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on Email-joan.gichana@strathmore.edu or on Linkedin @Joan Gichana
+- 📫 Reach me on Email-royaljoan17@gmail.com or on Linkedin @Joan Gichana
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love running & photography
 
