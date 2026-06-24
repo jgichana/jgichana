@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Email-royaljoan17@gmail.com or on Linkedin @Joan Gichana
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love running & photography
 
 <!---
