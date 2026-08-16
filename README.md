@@ -16,7 +16,7 @@ I am a current 4th Year Computer Science student. I am interested in data and cl
 *Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
 
 ### Core Competencies & Core Stack
-<img src="https://img.shields.io/badge/[Technology_1]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Technology_2]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Technology_3]-20232A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/[Technology_1]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Technology_2]-F7DF1E?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/[Technology_3]-20232A?style=for-the-badge" />
 
 ### Tooling, Infrastructure & Ecosystem
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -24,12 +24,12 @@ I am a current 4th Year Computer Science student. I am interested in data and cl
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jgichana&show_icons=true&hide_border=true&bg_color=000000&title_color=FA8072&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jgichana&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FA8072&icon_color=FA8072&text_color=000000" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jgichana&layout=compact&hide_border=true&bg_color=000000&title_color=FA8072&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jgichana&layout=compact&hide_border=true&bg_color=ffffff&title_color=FA8072&text_color=000000" alt="Top Languages" />
 
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgichana&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgichana&bg_color=ffffff&color=FA8072&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 </p>
 
