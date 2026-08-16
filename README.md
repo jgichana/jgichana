@@ -1,5 +1,4 @@
 <p align="center">
-  [![Joan's GitHub stats](https://github-stats-extended.vercel.app/api?username=jgichana)](https://github.com/stats-organization/github-stats-extended)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring Data Scientist&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
