@@ -7,7 +7,7 @@
 I am a current 4th Year Computer Science student. I am interested in data and cloud and working my way to building skills in this area by building projects.
 
 - 🔭 **Current Focus:** My main focus is on completing my Bachelors degree which will entail building a final year project which is an activity recommendation system that is intended for caregivers and parents.
-- 🌱 **Learning & Exploration:** 
+- 🌱 **Learning & Exploration:** I am learning data science and analytics skills for tableau and powerBI.
 - ⚡ **Core Interests:** Data science, analytics and Cloud Infrastructure
 ---
 
@@ -23,13 +23,10 @@ I am a current 4th Year Computer Science student. I am interested in data and cl
 
 ---
 
-## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jgichana&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jgichana&show_icons=true&hide_border=true&bg_color=000000&title_color=FA8072&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jgichana&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jgichana&layout=compact&hide_border=true&bg_color=000000&title_color=FA8072&text_color=ffffff" alt="Top Languages" />
 
   <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgichana&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
