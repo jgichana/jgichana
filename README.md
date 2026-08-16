@@ -1,4 +1,5 @@
 <p align="center">
+  [![Joan's GitHub stats](https://github-stats-extended.vercel.app/api?username=jgichana)](https://github.com/stats-organization/github-stats-extended)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring Data Scientist&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
@@ -27,9 +28,9 @@ I am a current 4th Year Computer Science student. I am interested in data and cl
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgichana&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jgichana&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgichana&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jgichana&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 
   <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgichana&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
