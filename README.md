@@ -27,6 +27,7 @@ I am a current 4th Year Computer Science student. I am interested in data and cl
   <img src="https://github-stats-extended.vercel.app/api?username=jgichana&show_icons=true&hide_border=true&bg_color=ffffff&title_color=FA8072&icon_color=FA8072&text_color=000000" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jgichana&layout=compact&hide_border=true&bg_color=ffffff&title_color=FA8072&text_color=000000" alt="Top Languages" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgichana&theme=default&hide_border=true)](https://git.io/streak-stats)
 
   <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgichana&bg_color=ffffff&color=FA8072&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
