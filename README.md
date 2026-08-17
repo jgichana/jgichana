@@ -42,7 +42,7 @@ I am a current 4th Year Computer Science student. I am interested in data and cl
 ## Connect With Me
 
 - 💼 **Professional Network:** LinkedIn: Joan Gichana
-- 📧 **Direct Contact:** Email: royaljoan17@gmail.com
+- 📧 **Direct Contact:** Email: gichana.joan@gmail.com
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
 </p>
