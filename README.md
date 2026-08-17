@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring Data Scientist&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
@@ -31,7 +31,9 @@ I am a current 4th Year Computer Science student. I am interested in data and cl
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgichana&theme=default&hide_border=true" alt="GitHub Streak" />
   </a>
+    &nbsp;
 </p>
+  &nbsp;
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgichana&bg_color=ffffff&color=FA8072&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
@@ -46,6 +48,5 @@ I am a current 4th Year Computer Science student. I am interested in data and cl
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
 </p>
--->
 
-[![Joan's GitHub stats](https://github-stats-extended.vercel.app/api?username=jgichana)](https://github.com/stats-organization/github-stats-extended)
+
