@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Joan+Gichana+|+Aspiring+Data+Scientist&descAlignY=58&descColor=67e8f9&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Joan+Gichana+|+Aspiring+Data+Scientist&descAlignY=58&descColor=67e8f9&animation=fadeIn"/>
 </p>
 
 # Hi there, I am Joan Gichana 👋
