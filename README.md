@@ -4,7 +4,7 @@
 
 # Hi there, I am Joan Gichana 👋
 
-I am a current 4th Year Computer Science student. I am interested in data and cloud and working my way to building skills in this area by building projects.
+I am a current 4th Year Computer Science student. I am interested in data and cloud and working my way to building skills in these areas by building projects.
 
 - 🔭 **Current Focus:** My main focus is on completing my Bachelors degree which will entail building a final year project which is an activity recommendation system that is intended for caregivers and parents.
 - 🌱 **Learning & Exploration:** I am learning data science and analytics skills for tableau and powerBI.
